@@ -1,5 +1,4 @@
 # uart_tb_sv
-# UART Testbench in SystemVerilog
 
 This repository contains a **SystemVerilog-based verification environment** for testing a UART module.  
 It was created as part of my learning process to practice **object-oriented verification** concepts such as mailboxes, events, and class-based testbenches.
